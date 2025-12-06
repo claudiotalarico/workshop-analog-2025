@@ -1,1 +1,1 @@
-test_lut.py - simple example showing how to access the LUTs data using **pygmid**
+test_lut.py - simple example showing how to access the LUTs' data using **pygmid**
