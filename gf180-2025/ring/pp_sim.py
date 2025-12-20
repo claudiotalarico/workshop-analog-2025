@@ -93,5 +93,5 @@ plt.text(VIL+0.05,VOH+0.05, "(VIL, VOH)")
 plt.text(VIH+0.05,VOL+0.05, "(VIH, VOL)", color='b')
 #---- 
 
-plt.savefig("../plots/Plot_inv_tb_stat_enh_py.png")
+plt.savefig("../plots/Plot_pp_sim_py.png")
 plt.show()
