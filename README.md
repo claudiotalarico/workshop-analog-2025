@@ -1,10 +1,10 @@
 # Systematic Design of Analog CMOS Circuits 
-Repository for presentation on analog flow using open souce tools (PDK: gf180mcuD)
+Repository for workshop on analog flow using open souce tools (PDK: gf180mcuD)
 
-part I:<br>
+<b>part I:</b><br>
 `echo $IIC_OSIC_TOOLS_VERSION`<br>
 2025.11
 
-part II:<br>
+<b>part II:</b><br>
 `echo $IIC_OSIC_TOOLS_VERSION`<br>
 2025.09
