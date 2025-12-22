@@ -5,9 +5,16 @@ Repository for workshop on analog flow using open souce tools (PDK: gf180mcuD)
 `echo $IIC_OSIC_TOOLS_VERSION`<br>
 2025.11
 
+Please, take a look at this [bug.](https://github.com/iic-jku/IIC-OSIC-TOOLS/issues/209)
+
 <b>part II:</b><br>
 `echo $IIC_OSIC_TOOLS_VERSION`<br>
 2025.09
+
+Please, take a look at this [bug.](https://github.com/iic-jku/IIC-OSIC-TOOLS/issues/211)
+
+Usually, bugs are fixed quite timely, so hopefully in one of the next IIC_OSIC_TOOLS releases, they will be gone.
+
 
 [Step-by-Step tutorial on setting up the OSIC tools with Docker](https://github.com/claudiotalarico/vlsi-2025/blob/main/osic-setup-tutorial.md)
 <br>For a more comprehensive tutorial see:
