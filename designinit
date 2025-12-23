@@ -12,27 +12,3 @@ echo SPICE_USERINIT_DIR = $SPICE_USERINIT_DIR
 export USER=designer
 echo USER = $USER
 # -----------------------------------------------------
-#
-# gf180mcuD
-#export PDK=gf180mcuD
-#export PDKPATH=$PDK_ROOT/$PDK
-#export STD_CELL_LIBRARY=gf180mcu_fd_sc_mcu7t5v0
-#export SPICE_USERINIT_DIR=$PDKPATH/libs.tech/ngspice
-#export KLAYOUT_PATH=$PDKPATH/libs.tech/klayout:$PDKPATH/libs.tech/klayout/tech
-# overwrite the default SPICE_USERINIT_DIR variable
-#export SPICE_USERINIT_DIR=/foss/designs
-#
-# -----------------------------------------------------
-
-# -----------------------------------------------------
-#
-# sky130A
-#export PDK=sky130A
-#export PDKPATH=$PDK_ROOT/$PDK
-#export STD_CELL_LIBRARY=sky130_fd_sc_hd
-#export SPICE_USERINIT_DIR=$PDKPATH/libs.tech/ngspice
-#export KLAYOUT_PATH=$PDKPATH/libs.tech/klayout:$PDKPATH/libs.tech/klayout/tech
-# overwrite the default SPICE_USERINIT_DIR variable
-#export SPICE_USERINIT_DIR=/foss/designs
-#
-# -----------------------------------------------------
