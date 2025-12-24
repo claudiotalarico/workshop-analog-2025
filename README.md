@@ -20,7 +20,7 @@ Usually, bugs are fixed quite timely, so hopefully in one of the next IIC_OSIC_T
 <br>For a more comprehensive tutorial see:
 <br>[Setting Up Open Source Tools with Docker](https://kwantaekim.github.io/2024/05/25/OSE-Docker/) by Kwantae Kim
 
-### KLayout's getting started videos:
+### KLayout: getting started videos
 - [Setting up the tools with Docker](https://youtu.be/LjO6a5Z3HdQ)
 - [Inverter](https://youtu.be/RY40Nv39paU)
 - Ring Oscillator
