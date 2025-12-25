@@ -26,4 +26,11 @@
   - xschem's testbench for simulating the ring oscillator behavior <br>
   TRAN analysis
 - `ring.gds`
-  - layout of ring oscillator  
+  - layout of ring oscillator
+- `ring_pex.sym`
+  - xschem's symbol for post-layout simulation of ring oscillator
+- `ring_pex_tb.sch`
+  - xschem's testbench for post-layout simulation of ring oscillator <br>
+  TRAN analysis
+- `ring_pex.spc`
+  - spice netlist of ring oscillator after pex (parasitic extraction)    
