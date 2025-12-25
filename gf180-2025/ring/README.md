@@ -22,3 +22,6 @@
   - xschem's schematic of ring oscillator
 - `ring.sym`
   - xschem's symbol of ring oscillator    
+- `ring_tb.sch`
+  - xschem's testbench for simulating the ring oscillator behavior <br>
+  TRAN analysis
