@@ -10,7 +10,8 @@
   TRAN analysis with improved setup
 - `inv_tb_stat_enh.sch`
   - xschem's testbench for simulating the inverter behavior <br>
-    DC-sweep analysis enabling post processing of the simulation data
+    DC-sweep analysis enabling post processing of the simulation data <br>
+    The simulation data are saved in the file `inv_tb_stat_enh.txt`
 - `pp_inv_tb_stat_enh.ipynb`
   - python's notebook for post processing the DC-sweep data of the inverter
 - `pp_sim.py`
