@@ -25,3 +25,5 @@
 - `ring_tb.sch`
   - xschem's testbench for simulating the ring oscillator behavior <br>
   TRAN analysis
+- `ring.gds`
+  - layout of ring oscillator  
