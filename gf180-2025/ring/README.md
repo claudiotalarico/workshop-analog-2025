@@ -32,5 +32,5 @@
 - `ring_pex_tb.sch`
   - xschem's testbench for post-layout simulation of ring oscillator <br>
   TRAN analysis
-- `ring_pex.spc`
+- `ring.pex.spc`
   - spice netlist of ring oscillator after pex (parasitic extraction)    
