@@ -18,3 +18,7 @@
   - python's script for post processing the DC-sweep data of the inverter
 - `inv.gds`
   - layout of inverter
+- `ring.sch`
+  - xschem's schematic of ring oscillator
+- `ring.sym`
+  - xschem's symbol of ring oscillator    
