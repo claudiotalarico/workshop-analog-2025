@@ -15,33 +15,29 @@ vin  = df[["v(in)"]]
 vout = df[["v(out)"]]
 
 VSW  = df[["VSW"]]
-#VSW = VSW.iloc[[0]]
 VSW = VSW.to_numpy()
 VSW = VSW[0,0]
 
 VOH  = df[["VOH"]]
-#VOH = VOH.iloc[[0]]
 VOH = VOH.to_numpy()
 VOH = VOH[0,0]
 
 VIL  = df[["VIL"]]
-#VIL = VIL.iloc[[0]]
 VIL = VIL.to_numpy()
 VIL = VIL[0,0]
 
 VOL  = df[["VOL"]]
-#VOL = VOL.iloc[[0]]
 VOL = VOL.to_numpy()
 VOL = VOL[0,0]
 
 VIH  = df[["VIH"]]
-#VIH = VSW.iloc[[0]]
 VIH = VIH.to_numpy()
 VIH = VIH[0,0]
 
 
 print(VSW)
 print(VOH)
+print(VOL)
 print(VIL)
 print(VIH)
 
