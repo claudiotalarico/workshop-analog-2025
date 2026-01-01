@@ -23,8 +23,8 @@ Usually, bugs are fixed quite timely, so hopefully in one of the next IIC_OSIC_T
 #### KLayout - getting started videos
 - [Setting up the tools with Docker](https://youtu.be/LjO6a5Z3HdQ)
 - [Inverter](https://youtu.be/RY40Nv39paU)
-- Ring Oscillator
-
+- [Ring Oscillator](https://youtu.be/cMK9g4AgsBc)
+  
 #### Klayout - common short-cuts
 `Edit > Selection > Flip Horizontally` - __`Shift + H`__<br>
 `Edit > Selection > Move by` - __`[`__<br>
