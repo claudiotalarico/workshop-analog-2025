@@ -21,7 +21,7 @@ As of February 2026, the latest version of the IIC OSIC TOOLS is:<br>
 
 Please take a look at [bug 224.](https://github.com/iic-jku/IIC-OSIC-TOOLS/issues/224)
 
-Workaround (downgrade the version of gdsfactory):
+Workaround (downgrade the version of gdsfactory):<br>
 `pip install gdsfactory==9.20.6`
 
 [Step-by-Step tutorial on setting up the OSIC tools with Docker](https://github.com/claudiotalarico/vlsi-2025/blob/main/osic-setup-tutorial.md)
