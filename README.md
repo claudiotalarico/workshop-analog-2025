@@ -5,16 +5,24 @@ Repository for workshop on analog flow using open souce tools (PDK: gf180mcuD)
 `echo $IIC_OSIC_TOOLS_VERSION`<br>
 2025.11
 
-Please, take a look at this [bug.](https://github.com/iic-jku/IIC-OSIC-TOOLS/issues/209)
+Please, take a look at [bug 209.](https://github.com/iic-jku/IIC-OSIC-TOOLS/issues/209)
 
 <b>part II:</b><br>
 `echo $IIC_OSIC_TOOLS_VERSION`<br>
 2025.09
 
-Please, take a look at this [bug.](https://github.com/iic-jku/IIC-OSIC-TOOLS/issues/211)
+Please, take a look at [bug 211.](https://github.com/iic-jku/IIC-OSIC-TOOLS/issues/211)
 
 Usually, bugs are fixed quite timely, so hopefully in one of the next IIC_OSIC_TOOLS releases, they will be gone.
 
+As of February 2026, the latest version of the IIC OSIC TOOLS is:<br>
+`echo $IIC_OSIC_TOOLS_VERSION`<br>
+2026.02
+
+Please take a look at [bug 224.](https://github.com/iic-jku/IIC-OSIC-TOOLS/issues/224)
+
+Workaround (downgrade the version of gdsfactory):
+`pip install gdsfactory==9.20.6`
 
 [Step-by-Step tutorial on setting up the OSIC tools with Docker](https://github.com/claudiotalarico/vlsi-2025/blob/main/osic-setup-tutorial.md)
 <br>For a more comprehensive tutorial see:
