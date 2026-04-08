@@ -25,7 +25,7 @@ Please take a look at [bug 224.](https://github.com/iic-jku/IIC-OSIC-TOOLS/issue
 `pip install gdsfactory==9.20.6`
 
 [Step-by-Step tutorial on setting up the OSIC tools with Docker](https://github.com/claudiotalarico/vlsi-2025/blob/main/osic-setup-tutorial.md) (**Windows OS**)<br>
-[Step-by-Step tutorial on setting up the OSIC tools with Docker](https://github.com/claudiotalarico/SV-2026/tree/main/docs) (**mac OS**)
+[Step-by-Step tutorial on setting up the OSIC tools with Docker](https://github.com/claudiotalarico/SV-2026/tree/main/docs/osic-setup-tutorial-mac.md) (**mac OS**)
 <br>For a more comprehensive tutorial see:
 <br>[Setting Up Open Source Tools with Docker](https://kwantaekim.github.io/2024/05/25/OSE-Docker/) by Kwantae Kim
 
